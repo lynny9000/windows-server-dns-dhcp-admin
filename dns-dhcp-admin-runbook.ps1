@@ -21,7 +21,6 @@
 # DNS Server Installation
 
 # DNS is responsible for translating hostnames into IP addresses
-#
 # Example: dc01.astonvilla.local becomes 192.168.10.10
 # Active Directory relies heavily on DNS.
 
